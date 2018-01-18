@@ -1,6 +1,6 @@
 # Yaxreturns Exchange Integrations
 
-``Node.js`` library owned by https://www.yaxreturns.com/
+``Node.js`` provided owned by https://www.yaxreturns.com/
 
 Yax seeks to support all cryptocurrency exchanges. Unfortunately, this takes developer time and there are often API changes on these exchanges that can break our integrations with them. 
 
